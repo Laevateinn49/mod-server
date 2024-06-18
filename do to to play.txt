@@ -1,0 +1,19 @@
+Hallo, ecco una guida su come installare il modpack
+Nella cartella installazioni è presente un file chiamato jre-8u411-windows-x64, aprilo e installatelo.
+
+Dopo bisogna aprire questo file forge-1.20.2-48.1.0-installer cliccando col tasto destro e fare "apri con" e selezionare java (potete fare anche tieni selezionato)
+e install client.
+
+Aprendo il gioco dovrebbe apparire una tasto mod cliccatelo e dopo "open mod folder" 
+
+(Oppure col tasto windows apri la barra di ricerca e scrivere %appdata%, aprire la cartella .minecraft e cercare la cartella mod)
+
+arrivati alla cartella mod bisogna copiarci dentro il contenuto della cartella "mod" dentro e riavviare il gioco. 
+
+(OPZIONALE: per migliorare le prestazioni
+
+Arrivate a questo punto avvia il gioco con il profilo forge selezionabile in basso a sinistra, e dopo potete chiuderlo
+
+Ora tornate nella cartella installazioni e aprite il file preview_OptiFine_1.20.2_HD_U_I7_pre1 e premere sul file install)
+
+Ora siete pronti a giocare.
